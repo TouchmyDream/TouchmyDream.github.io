@@ -1,6 +1,6 @@
 # Site settings
-title: 'Kevin'  # Your Title
-tagline: 'ÄãÕæµÄ½éÒâÕæµÄÔÚºõÕæµÄÏëÒªÕæµÄ¿ÊÍûµÄ»°ÄãÒ»¶¨ÄÜ¹»×öµ½'  # A brief tagline for your site
+title: 'LMY-HOME'  # Your Title
+tagline: 'æŸ”å¼±ã€æ— æ¬²ï¼Œé¡ºä¹è‡ªç„¶ï¼Œä½†å´å…·æœ‰å¼ºå¤§çš„ç”Ÿå‘½åŠ›'  # A brief tagline for your site
 sidebar_image: /images/cover.jpg
 
 encoding: UTF-8
@@ -14,7 +14,10 @@ baseurl: ""
 
 
 # Site settings
-name:           chen_ze_hua
-email:          958987180@qq.com
-uri:            TouchmyDream.github.io
-github:         TouchmyDream
+name:           limingyang2012
+email:          limingyang2012@zju.edu.cn
+uri:            limingyang2012.github.io
+github:         limingyang2012
+twitter:        limingyang2012
+facebook:       limingyang2012
+linkedin:       limingyang2012
