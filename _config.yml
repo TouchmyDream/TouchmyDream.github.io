@@ -1,6 +1,6 @@
 # Site settings
 title: 'Kevin'  # Your Title
-tagline: '你真的介意真的在乎真的想要真的渴望的话你一定能够做到'  # A brief tagline for your site
+tagline: '鏌斿急銆佹棤娆诧紝椤轰箮鑷劧锛屼絾鍗村叿鏈夊己澶х殑鐢熷懡鍔?  # A brief tagline for your site
 sidebar_image: /images/cover.jpg
 
 encoding: UTF-8
@@ -14,7 +14,10 @@ baseurl: ""
 
 
 # Site settings
-name:           chen_ze_hua
+name:           kevin
 email:          958987180@qq.com
 uri:            TouchmyDream.github.io
 github:         TouchmyDream
+twitter:        TouchmyDream
+facebook:       TouchmyDream
+linkedin:       TouchmyDream
